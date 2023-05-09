@@ -1,0 +1,15 @@
+/Users/air/Desktop/C#_2023/example_01/bin/Debug/net6.0/example_01
+/Users/air/Desktop/C#_2023/example_01/bin/Debug/net6.0/example_01.deps.json
+/Users/air/Desktop/C#_2023/example_01/bin/Debug/net6.0/example_01.runtimeconfig.json
+/Users/air/Desktop/C#_2023/example_01/bin/Debug/net6.0/example_01.dll
+/Users/air/Desktop/C#_2023/example_01/bin/Debug/net6.0/example_01.pdb
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.csproj.AssemblyReference.cache
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.AssemblyInfoInputs.cache
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.AssemblyInfo.cs
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.csproj.CoreCompileInputs.cache
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.dll
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/refint/example_01.dll
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.pdb
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/example_01.genruntimeconfig.cache
+/Users/air/Desktop/C#_2023/example_01/obj/Debug/net6.0/ref/example_01.dll
